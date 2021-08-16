@@ -34,6 +34,11 @@ schedule:
         end: 2:00 PM
         location: 271 Soda
   - name: Tuesday
+    events:
+      - name: New Event
+        start: 10:30 AM
+        end: 1:30 PM
+        location: Dr. Keeling's Office
   - name: Wednesday
     events:
       - name: Lecture
